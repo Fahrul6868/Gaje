@@ -2,7 +2,7 @@ const chalk = require("chalk")
 const fs = require("fs")
 
 //apikey Chat GPT
-global.keyAI = 'ISI_APIKEY_OPENAI_DISINI' 
+global.keyAI = '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' 
 
 //biarkan saja
 global.doc1 = 'application/vnd.openxmlformats-officedocument.presentationml.presentation'
@@ -13,24 +13,24 @@ global.doc5 = 'application/pdf'
 global.doc6 = 'application/vnd.android.package-archive'
 
 //wajib ganti
-global.owner = ['6281977815539'] // nomor kamu
-global.ownernomer = "6281977815539" // nomor kamu
-global.ownername = "Myuko Dev" // nama kamu
+global.owner = ['6285786539008'] // nomor kamu
+global.ownernomer = "6285786539008" // nomor kamu
+global.ownername = "Fahrul" // nama kamu
 global.ytname = "Gura Botz" //nama channel 
-global.socialm = "instagram : xyx.velix_" // sosial media kamu
+global.socialm = "instagram : fahrul_mt" // sosial media kamu
 global.location = "Bandung, Jawa Barat, Indonesia" // lokasi kamu
 global.botname = "Gura Botz" // nama bot kamu
-global.ownernumber = '6281977815539' // nomor kamu
-global.ownername = 'Myuko Dev' // nama kamu
-global.ownerNumber = ["6281977815539@s.whatsapp.net"] // nomor kamu dengan @s.whatsapp.net
-global.ownerweb = "https://sociabuzz.com/myukodev" // website kamu
-global.websitex = "https://sociabuzz.com/myukodev" //website kamu
-global.wagc = "https://chat.whatsapp.com/JhNan8hYiSXCuf7gE853Tg" // link grup kamu
+global.ownernumber = '6285786539008' // nomor kamu
+global.ownername = 'Fahrul' // nama kamu
+global.ownerNumber = ["6285786539008@s.whatsapp.net"] // nomor kamu dengan @s.whatsapp.net
+global.ownerweb = "https://sociabuzz.com/fahrul" // website kamu
+global.websitex = "https://sociabuzz.com/fahrul" //website kamu
+global.wagc = "https://chat.whatsapp.com/HZ0XzL2hYl5EtKgz15Qdfv" // link grup kamu
 global.themeemoji = '=' // tema emoji kamu
 global.wm = "GuraBotz" // watermark kamu
 global.packname = "Gura Botz by" // nama sticker kamu
-global.author = "Myuko Dev" // nama author sticker kamu
-global.creator = "6281977815539@s.whatsapp.net" // nomor kamu
+global.author = "Fahrul" // nama author sticker kamu
+global.creator = "6285786539008@s.whatsapp.net" // nomor kamu
 global.prefa = ['','!','.','#','&'] // tidak usah di ganti
 global.hituet = 0 // saya tidak tahu ini
 
