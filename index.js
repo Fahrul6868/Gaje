@@ -207,7 +207,7 @@ BotzIkyLft = await getBuffer(ppuser)
                 const xtime = moment.tz('Asia/Kolkata').format('HH:mm:ss')
 	            const xdate = moment.tz('Asia/Kolkata').format('DD/MM/YYYY')
 	            const xmembers = metadata.participants.length
-                BotzIkybody = `*Hai Kak 👋🏻 @${BotzIkyName.split("@")[0]}, Welcome to ${metadata.subject}.*\n\n_info selengkapnya baca deskripsi ya kak_\n\n*BotzAku by iky*`
+                BotzIkybody = `*Hai Kak 👋🏻 @${BotzIkyName.split("@")[0]}, Welcome to ${metadata.subject}.*\n\n_info selengkapnya baca deskripsi ya kak_\n\n*BotzAku by fahrul*`
 iikyy.sendMessage(anu.id,
  { text: BotzIkybody,
  contextInfo:{
